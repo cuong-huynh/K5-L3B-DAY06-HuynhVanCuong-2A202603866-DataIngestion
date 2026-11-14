@@ -1,0 +1,134 @@
+{
+  "started_at": "2026-11-14T10:20:11+07:00",
+  "content_pages": 92,
+  "ingestion_errors": 0,
+  "embedding": {
+    "provider": "local sentence-transformers",
+    "model": "intfloat/multilingual-e5-small",
+    "dimensions": 384,
+    "max_seq_length": 512,
+    "document_prefix": "passage: ",
+    "query_prefix": "query: ",
+    "normalized": true,
+    "device": "cpu",
+    "cost_usd": 0.0
+  },
+  "vector_store": {
+    "backend": "PostgreSQL 16 + pgvector 0.8.7 (Docker)",
+    "table": "law_chunks",
+    "metric": "cosine",
+    "search": "exact (no ANN index)"
+  },
+  "versions": {
+    "sentence-transformers": "6.3.0",
+    "torch": "2.15.0",
+    "transformers": "5.23.0",
+    "pymupdf": "2.1",
+    "psycopg": "3.3.8"
+  },
+  "python": "3.12.16",
+  "model_load_seconds": 3.83,
+  "strategies": {
+    "A_fixed": {
+      "config": {
+        "chunker": "fixed_size",
+        "size": 1000,
+        "overlap": 150,
+        "use_filter": false,
+        "hypothesis": "Baseline: cửa sổ ký tự cố định, bỏ qua cấu trúc Điều/khoản."
+      },
+      "stats": {
+        "chunks": 258,
+        "total_chars": 220069,
+        "min_chars": 151,
+        "median_chars": 999.0,
+        "mean_chars": 853.0,
+        "max_chars": 1000,
+        "chunks_without_article": 0
+      },
+      "truncated_passages": 0,
+      "embed_seconds": 3.92,
+      "upsert_seconds": 0.06,
+      "query_seconds_20q": 0.51,
+      "reingest_check": {
+        "rows_after_first": 258,
+        "first": {
+          "upserted": 258,
+          "stale_deleted": 0
+        },
+        "rows_after_second": 258,
+        "second": {
+          "upserted": 258,
+          "stale_deleted": 0
+        }
+      }
+    },
+    "B_struct": {
+      "config": {
+        "chunker": "by_paragraph",
+        "max_size": 1000,
+        "use_filter": false,
+        "hypothesis": "Cắt theo Điều/khoản giữ trọn ý nên tăng Hit@1 và coherence so với A."
+      },
+      "stats": {
+        "chunks": 320,
+        "total_chars": 195015,
+        "min_chars": 32,
+        "median_chars": 653.5,
+        "mean_chars": 609.4,
+        "max_chars": 1000,
+        "chunks_without_article": 7
+      },
+      "truncated_passages": 0,
+      "embed_seconds": 3.64,
+      "upsert_seconds": 0.07,
+      "query_seconds_20q": 0.47,
+      "reingest_check": {
+        "rows_after_first": 320,
+        "first": {
+          "upserted": 320,
+          "stale_deleted": 0
+        },
+        "rows_after_second": 320,
+        "second": {
+          "upserted": 320,
+          "stale_deleted": 0
+        }
+      }
+    },
+    "C_struct_filter": {
+      "config": {
+        "chunker": "by_paragraph",
+        "max_size": 1000,
+        "use_filter": true,
+        "hypothesis": "Như B nhưng lọc document_id khi câu hỏi có phạm vi văn bản; sửa các câu mơ hồ giữa ba luật."
+      },
+      "stats": {
+        "chunks": 320,
+        "total_chars": 195015,
+        "min_chars": 32,
+        "median_chars": 653.5,
+        "mean_chars": 609.4,
+        "max_chars": 1000,
+        "chunks_without_article": 7
+      },
+      "truncated_passages": 0,
+      "embed_seconds": 3.66,
+      "upsert_seconds": 0.07,
+      "query_seconds_20q": 0.49,
+      "reingest_check": {
+        "rows_after_first": 320,
+        "first": {
+          "upserted": 320,
+          "stale_deleted": 0
+        },
+        "rows_after_second": 320,
+        "second": {
+          "upserted": 320,
+          "stale_deleted": 0
+        }
+      }
+    }
+  },
+  "finished_at": "2026-11-14T10:20:24+07:00"
+}

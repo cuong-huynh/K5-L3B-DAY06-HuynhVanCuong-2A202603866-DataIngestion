@@ -1,0 +1,98 @@
+{
+  "A_fixed": {
+    "dev": {
+      "n": 15,
+      "hit_at_1": 11,
+      "hit_at_3": 14,
+      "gold_page_at_3": 14,
+      "filter_questions": 2,
+      "filter_respected": 0,
+      "hit_at_1_rate": 0.733,
+      "hit_at_3_rate": 0.933
+    },
+    "all": {
+      "n": 20,
+      "hit_at_1": 13,
+      "hit_at_3": 16,
+      "gold_page_at_3": 17,
+      "filter_questions": 4,
+      "filter_respected": 0,
+      "hit_at_1_rate": 0.65,
+      "hit_at_3_rate": 0.8
+    },
+    "test": {
+      "n": 5,
+      "hit_at_1": 2,
+      "hit_at_3": 2,
+      "gold_page_at_3": 3,
+      "filter_questions": 2,
+      "filter_respected": 0,
+      "hit_at_1_rate": 0.4,
+      "hit_at_3_rate": 0.4
+    }
+  },
+  "B_struct": {
+    "dev": {
+      "n": 15,
+      "hit_at_1": 12,
+      "hit_at_3": 15,
+      "gold_page_at_3": 15,
+      "filter_questions": 2,
+      "filter_respected": 0,
+      "hit_at_1_rate": 0.8,
+      "hit_at_3_rate": 1.0
+    },
+    "all": {
+      "n": 20,
+      "hit_at_1": 13,
+      "hit_at_3": 18,
+      "gold_page_at_3": 18,
+      "filter_questions": 4,
+      "filter_respected": 0,
+      "hit_at_1_rate": 0.65,
+      "hit_at_3_rate": 0.9
+    },
+    "test": {
+      "n": 5,
+      "hit_at_1": 1,
+      "hit_at_3": 3,
+      "gold_page_at_3": 3,
+      "filter_questions": 2,
+      "filter_respected": 0,
+      "hit_at_1_rate": 0.2,
+      "hit_at_3_rate": 0.6
+    }
+  },
+  "C_struct_filter": {
+    "dev": {
+      "n": 15,
+      "hit_at_1": 14,
+      "hit_at_3": 15,
+      "gold_page_at_3": 15,
+      "filter_questions": 2,
+      "filter_respected": 2,
+      "hit_at_1_rate": 0.933,
+      "hit_at_3_rate": 1.0
+    },
+    "all": {
+      "n": 20,
+      "hit_at_1": 17,
+      "hit_at_3": 19,
+      "gold_page_at_3": 19,
+      "filter_questions": 4,
+      "filter_respected": 4,
+      "hit_at_1_rate": 0.85,
+      "hit_at_3_rate": 0.95
+    },
+    "test": {
+      "n": 5,
+      "hit_at_1": 3,
+      "hit_at_3": 4,
+      "gold_page_at_3": 4,
+      "filter_questions": 2,
+      "filter_respected": 2,
+      "hit_at_1_rate": 0.6,
+      "hit_at_3_rate": 0.8
+    }
+  }
+}

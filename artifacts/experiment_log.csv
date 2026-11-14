@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size theo ký tự trong từng trang,1000,150,"document_id, source, page, gazette_page, law_title, law_number, year, effective_date, chapter, article (Điều tại đầu chunk), articles",không,intfloat/multilingual-e5-small (384 chiều; passage:/query:; cosine; pgvector exact),Baseline: cửa sổ cố định bỏ qua cấu trúc Điều/khoản,11/15,14/15,2/5,2/5,"258 chunk, embed 3.92s CPU, chi phí 0. Coherence 0.8/2; metadata test 14/15 (A-q18 gắn Điều 44 cho bằng chứng Điều 45); grounding test 1.0/2."
+B,by_paragraph: bắt đầu chunk mới ở mỗi Chương/Mục/Điều; gom khoản/điểm tới giới hạn; đoạn quá dài cắt theo câu,1000,0,giống A,không,giống A,Cắt theo Điều/khoản giữ trọn ý nên tăng Hit@1 và coherence so với A,12/15,15/15,1/5,3/5,"320 chunk, embed 3.64s, chi phí 0. Coherence 1.7/2; metadata 15/15; grounding 1.4/2. Lỗi chính: câu hỏi chung (q14/q15/q16/q20) lấy nhầm Điều tương ứng của luật khác."
+C,giống B (cùng chunk),1000,0,giống A,"document_id = phạm vi văn bản người dùng chọn trước khi hỏi; chỉ áp dụng cho 4 câu có filter (q14, q15 dev; q16, q20 test)",giống A,Như B nhưng lọc document_id khi câu hỏi có phạm vi văn bản; sửa các câu mơ hồ giữa ba luật,14/15,15/15,3/5,4/5,"320 chunk, embed 3.66s, chi phí 0. Filter tuân thủ 4/4; coherence 1.7/2; metadata 15/15; grounding 1.8/2. Còn trượt q17 (khoản bị ngắt giữa trang 24-25)."

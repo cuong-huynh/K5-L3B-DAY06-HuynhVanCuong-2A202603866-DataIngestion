@@ -1,0 +1,178 @@
+position_id,document_id,page,offset,strategy,chunk_id,chunk_text,label_0_2,reason,labeler
+pos01,luat-anm-2025,5,1187,A_fixed,luat-anm-2025:p005:fixed:001,"iều tra, truy tố, xét xử theo quy định của Bộ luật Tố tụng hình sự;
+o) Biện pháp khác theo quy định của pháp luật về an ninh quốc gia, pháp luật về xử lý vi phạm hành chính.
+2. Chính phủ quy định chi tiết nội dung, trình tự, thủ tục, thẩm quyền áp dụng biện pháp bảo vệ an ninh mạng, trừ biện pháp quy định tại điểm n và điểm o khoản 1 Điều này.
+Điều 6. Hợp tác quốc tế về an ninh mạng
+1. Hợp tác quốc tế về an ninh mạng được thực hiện trên cơ sở tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng, cùng có lợi và tuân thủ Hiến pháp, pháp luật Việt Nam, điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
+2. Nội dung hợp tác quốc tế về an ninh mạng bao gồm:
+a) Chia sẻ thông tin, dữ liệu và cảnh báo sớm về nguy cơ, sự cố, tấn công mạng ảnh hưởng đến an ninh mạng;
+b) Xây dựng khuôn khổ pháp lý, chính sách và cơ chế hợp tác, phối hợp trong bảo vệ an ninh mạng; đàm phán, ký kết, tham gia thực hiện điều ước quốc tế, thỏa",1,"Bắt đầu giữa chữ 'iều tra', trộn cuối khoản 1 Điều 5 với Điều 6; đọc được từng ý nhưng thiếu chủ thể.","AI-assisted draft (Cursor), reviewed by student"
+pos01,luat-anm-2025,5,1187,B_struct,luat-anm-2025:p005:struct:001,"o) Biện pháp khác theo quy định của pháp luật về an ninh quốc gia, pháp luật về xử lý vi phạm hành chính.
+2. Chính phủ quy định chi tiết nội dung, trình tự, thủ tục, thẩm quyền áp dụng biện pháp bảo vệ an ninh mạng, trừ biện pháp quy định tại điểm n và điểm o khoản 1 Điều này.",1,"Đầu trang: 'o) Biện pháp khác...' là điểm cuối danh sách của trang trước, thiếu khoản/Điều cha.","AI-assisted draft (Cursor), reviewed by student"
+pos01,luat-anm-2025,5,1187,C_struct_filter,luat-anm-2025:p005:struct:001,"o) Biện pháp khác theo quy định của pháp luật về an ninh quốc gia, pháp luật về xử lý vi phạm hành chính.
+2. Chính phủ quy định chi tiết nội dung, trình tự, thủ tục, thẩm quyền áp dụng biện pháp bảo vệ an ninh mạng, trừ biện pháp quy định tại điểm n và điểm o khoản 1 Điều này.",1,"Đầu trang: 'o) Biện pháp khác...' là điểm cuối danh sách của trang trước, thiếu khoản/Điều cha. (C dùng cùng chunk với B)","AI-assisted draft (Cursor), reviewed by student"
+pos02,luat-anm-2025,15,1324,A_fixed,luat-anm-2025:p015:fixed:001,"ó thẩm quyền áp dụng biện pháp quy định tại khoản 1 Điều 5 của Luật này để xử lý thông tin trên không gian mạng có nội dung quy định tại các khoản 1, 2 và 3 Điều 13 của Luật này và đấu tranh, phòng, chống hành vi sử dụng công nghệ thông tin, phương tiện điện tử xâm phạm an ninh quốc gia, trật tự, an toàn xã hội trên không gian mạng.
+3. Doanh nghiệp trong nước và nước ngoài cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng và chủ quản hệ thống thông tin phối hợp với lực lượng chuyên trách bảo vệ an ninh mạng xử lý thông tin trên không gian mạng có nội dung quy định tại các khoản 1, 2 và 3 Điều 13 của Luật này và phòng, chống hành vi sử dụng công nghệ thông tin, phương tiện điện tử xâm phạm an ninh quốc gia, trật tự, an toàn xã hội trên không gian mạng.
+4. Tổ chức, cá nhân soạn thảo, đăng tải, phát tán thông tin trên không gian mạng có nội dung quy định tại các khoản 1, 2 và 3 Điều 13 của Luật này phải gỡ bỏ thông tin khi có yêu cầu của lực l",0,Bắt đầu 'ó thẩm quyền' và kết thúc 'của lực l': nghĩa vụ gỡ bỏ thông tin bị cắt đúng chỗ quan trọng.,"AI-assisted draft (Cursor), reviewed by student"
+pos02,luat-anm-2025,15,1324,B_struct,luat-anm-2025:p015:struct:002,"2. Lực lượng chuyên trách bảo vệ an ninh mạng và cơ quan có thẩm quyền áp dụng biện pháp quy định tại khoản 1 Điều 5 của Luật này để xử lý thông tin trên không gian mạng có nội dung quy định tại các khoản 1, 2 và 3 Điều 13 của Luật này và đấu tranh, phòng, chống hành vi sử dụng công nghệ thông tin, phương tiện điện tử xâm phạm an ninh quốc gia, trật tự, an toàn xã hội trên không gian mạng.
+3. Doanh nghiệp trong nước và nước ngoài cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng và chủ quản hệ thống thông tin phối hợp với lực lượng chuyên trách bảo vệ an ninh mạng xử lý thông tin trên không gian mạng có nội dung quy định tại các khoản 1, 2 và 3 Điều 13 của Luật này và phòng, chống hành vi sử dụng công nghệ thông tin, phương tiện điện tử xâm phạm an ninh quốc gia, trật tự, an toàn xã hội trên không gian mạng.",2,"Trọn khoản 2-3 Điều 14, câu hoàn chỉnh, tự hiểu được.","AI-assisted draft (Cursor), reviewed by student"
+pos02,luat-anm-2025,15,1324,C_struct_filter,luat-anm-2025:p015:struct:002,"2. Lực lượng chuyên trách bảo vệ an ninh mạng và cơ quan có thẩm quyền áp dụng biện pháp quy định tại khoản 1 Điều 5 của Luật này để xử lý thông tin trên không gian mạng có nội dung quy định tại các khoản 1, 2 và 3 Điều 13 của Luật này và đấu tranh, phòng, chống hành vi sử dụng công nghệ thông tin, phương tiện điện tử xâm phạm an ninh quốc gia, trật tự, an toàn xã hội trên không gian mạng.
+3. Doanh nghiệp trong nước và nước ngoài cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng và chủ quản hệ thống thông tin phối hợp với lực lượng chuyên trách bảo vệ an ninh mạng xử lý thông tin trên không gian mạng có nội dung quy định tại các khoản 1, 2 và 3 Điều 13 của Luật này và phòng, chống hành vi sử dụng công nghệ thông tin, phương tiện điện tử xâm phạm an ninh quốc gia, trật tự, an toàn xã hội trên không gian mạng.",2,"Trọn khoản 2-3 Điều 14, câu hoàn chỉnh, tự hiểu được. (C dùng cùng chunk với B)","AI-assisted draft (Cursor), reviewed by student"
+pos03,luat-anm-2025,25,1040,A_fixed,luat-anm-2025:p025:fixed:001,"phẩm, dịch vụ an ninh mạng, công nghệ thông tin và thiết bị kết nối mạng.
+2. Việc chứng nhận hợp quy về an ninh mạng, công bố hợp quy về an ninh mạng, chứng nhận hợp chuẩn về an ninh mạng, công bố hợp chuẩn về an ninh mạng thực hiện theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật.
+3. Việc đánh giá hợp chuẩn, hợp quy về an ninh mạng phục vụ hệ thống thông tin quan trọng về an ninh quốc gia và phục vụ hoạt động quản lý nhà nước về an ninh mạng được thực hiện tại tổ chức chứng nhận hợp chuẩn, hợp quy do Bộ trưởng Bộ Công an chỉ định.
+4. Bộ Công an có trách nhiệm sau đây:
+a) Xây dựng dự thảo tiêu chuẩn quốc gia về an ninh mạng;
+b) Quản lý chất lượng sản phẩm, dịch vụ an ninh mạng, trừ sản phẩm, dịch vụ mật mã dân sự;
+c) Đăng ký, chỉ định và quản lý hoạt động của tổ chức chứng nhận sự phù hợp về an ninh mạng, trừ trường hợp quy định tại khoản 6 Điều này.
+5. Bộ trưởng Bộ Công an ban hành quy chuẩn kỹ thuật quốc gia về an ninh mạng.
+6. Bộ Quốc phòng đăng ký, chỉ định và quản l",1,"Hai khoản giữa Điều 27-28, đầu/cuối cắt giữa câu; hiểu được một phần.","AI-assisted draft (Cursor), reviewed by student"
+pos03,luat-anm-2025,25,1040,B_struct,luat-anm-2025:p025:struct:001,"Chương V
+TIÊU CHUẨN, QUY CHUẨN KỸ THUẬT,
+SẢN PHẨM, DỊCH VỤ AN NINH MẠNG
+Điều 27. Tiêu chuẩn, quy chuẩn kỹ thuật an ninh mạng
+1. Tiêu chuẩn an ninh mạng, quy chuẩn kỹ thuật an ninh mạng được áp dụng đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an ninh mạng, sản phẩm, dịch vụ an ninh mạng, công nghệ thông tin và thiết bị kết nối mạng.
+2. Việc chứng nhận hợp quy về an ninh mạng, công bố hợp quy về an ninh mạng, chứng nhận hợp chuẩn về an ninh mạng, công bố hợp chuẩn về an ninh mạng thực hiện theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật.
+3. Việc đánh giá hợp chuẩn, hợp quy về an ninh mạng phục vụ hệ thống thông tin quan trọng về an ninh quốc gia và phục vụ hoạt động quản lý nhà nước về an ninh mạng được thực hiện tại tổ chức chứng nhận hợp chuẩn, hợp quy do Bộ trưởng Bộ Công an chỉ định.
+4. Bộ Công an có trách nhiệm sau đây:
+a) Xây dựng dự thảo tiêu chuẩn quốc gia về an ninh mạng;",1,Có Chương V + Điều 27 nhưng dừng ở điểm a) khoản 4 vì giới hạn 1.000 ký tự; phần còn lại ở chunk sau.,"AI-assisted draft (Cursor), reviewed by student"
+pos03,luat-anm-2025,25,1040,C_struct_filter,luat-anm-2025:p025:struct:001,"Chương V
+TIÊU CHUẨN, QUY CHUẨN KỸ THUẬT,
+SẢN PHẨM, DỊCH VỤ AN NINH MẠNG
+Điều 27. Tiêu chuẩn, quy chuẩn kỹ thuật an ninh mạng
+1. Tiêu chuẩn an ninh mạng, quy chuẩn kỹ thuật an ninh mạng được áp dụng đối với hệ thống thông tin, phần cứng, phần mềm, hệ thống quản lý, vận hành an ninh mạng, sản phẩm, dịch vụ an ninh mạng, công nghệ thông tin và thiết bị kết nối mạng.
+2. Việc chứng nhận hợp quy về an ninh mạng, công bố hợp quy về an ninh mạng, chứng nhận hợp chuẩn về an ninh mạng, công bố hợp chuẩn về an ninh mạng thực hiện theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật.
+3. Việc đánh giá hợp chuẩn, hợp quy về an ninh mạng phục vụ hệ thống thông tin quan trọng về an ninh quốc gia và phục vụ hoạt động quản lý nhà nước về an ninh mạng được thực hiện tại tổ chức chứng nhận hợp chuẩn, hợp quy do Bộ trưởng Bộ Công an chỉ định.
+4. Bộ Công an có trách nhiệm sau đây:
+a) Xây dựng dự thảo tiêu chuẩn quốc gia về an ninh mạng;",1,Có Chương V + Điều 27 nhưng dừng ở điểm a) khoản 4 vì giới hạn 1.000 ký tự; phần còn lại ở chunk sau. (C dùng cùng chunk với B),"AI-assisted draft (Cursor), reviewed by student"
+pos04,luat-anm-2025,35,1151,A_fixed,luat-anm-2025:p035:fixed:001,"c) Bãi bỏ cụm từ “an toàn thông tin mạng,” tại khoản 2 Điều 21 và điểm b khoản 2 Điều 29.
+8. Thay thế, bãi bỏ một số cụm từ của Luật Giao dịch điện tử số 20/2023/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 60/2024/QH15 như sau:
+a) Bãi bỏ cụm từ “an toàn thông tin mạng và” tại tên Điều 5;
+b) Bãi bỏ cụm từ “pháp luật về an toàn thông tin mạng,” tại khoản 1 Điều 5;
+c) Thay thế cụm từ “an toàn thông tin mạng” bằng cụm từ “an ninh mạng” tại điểm c khoản 1 Điều 20, khoản 2 Điều 21, điểm c khoản 1 Điều 29, khoản 6 Điều 30, khoản 4 Điều 44, điểm a khoản 4 Điều 46 và điểm c khoản 1 Điều 47;
+d) Bãi bỏ cụm từ “an toàn thông tin mạng,” tại điểm d khoản 1 Điều 42 và điểm a khoản 1 Điều 47.
+9. Thay thế cụm từ “an toàn thông tin mạng” bằng cụm từ “an ninh mạng” tại điểm b khoản 2 Điều 12 của Luật Thuế thu nhập doanh nghiệp số 67/2025/QH15; tại khoản 1 Điều 169 của Luật Đất đai số 31/2024/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 43/2024/QH15, Luật số 47/2024/QH15, Luật số 58/2",1,"Danh sách sửa đổi cụm từ, cắt giữa danh sách số hiệu luật ở cuối.","AI-assisted draft (Cursor), reviewed by student"
+pos04,luat-anm-2025,35,1151,B_struct,luat-anm-2025:p035:struct:001,"8. Thay thế, bãi bỏ một số cụm từ của Luật Giao dịch điện tử số 20/2023/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 60/2024/QH15 như sau:
+a) Bãi bỏ cụm từ “an toàn thông tin mạng và” tại tên Điều 5;
+b) Bãi bỏ cụm từ “pháp luật về an toàn thông tin mạng,” tại khoản 1 Điều 5;
+c) Thay thế cụm từ “an toàn thông tin mạng” bằng cụm từ “an ninh mạng” tại điểm c khoản 1 Điều 20, khoản 2 Điều 21, điểm c khoản 1 Điều 29, khoản 6 Điều 30, khoản 4 Điều 44, điểm a khoản 4 Điều 46 và điểm c khoản 1 Điều 47;
+d) Bãi bỏ cụm từ “an toàn thông tin mạng,” tại điểm d khoản 1 Điều 42 và điểm a khoản 1 Điều 47.",2,Trọn khoản 8 Điều 43 (sửa đổi Luật Giao dịch điện tử).,"AI-assisted draft (Cursor), reviewed by student"
+pos04,luat-anm-2025,35,1151,C_struct_filter,luat-anm-2025:p035:struct:001,"8. Thay thế, bãi bỏ một số cụm từ của Luật Giao dịch điện tử số 20/2023/QH15 đã được sửa đổi, bổ sung một số điều theo Luật số 60/2024/QH15 như sau:
+a) Bãi bỏ cụm từ “an toàn thông tin mạng và” tại tên Điều 5;
+b) Bãi bỏ cụm từ “pháp luật về an toàn thông tin mạng,” tại khoản 1 Điều 5;
+c) Thay thế cụm từ “an toàn thông tin mạng” bằng cụm từ “an ninh mạng” tại điểm c khoản 1 Điều 20, khoản 2 Điều 21, điểm c khoản 1 Điều 29, khoản 6 Điều 30, khoản 4 Điều 44, điểm a khoản 4 Điều 46 và điểm c khoản 1 Điều 47;
+d) Bãi bỏ cụm từ “an toàn thông tin mạng,” tại điểm d khoản 1 Điều 42 và điểm a khoản 1 Điều 47.",2,Trọn khoản 8 Điều 43 (sửa đổi Luật Giao dịch điện tử). (C dùng cùng chunk với B),"AI-assisted draft (Cursor), reviewed by student"
+pos05,luat-gddt-2023,5,963,A_fixed,luat-gddt-2023:p005:fixed:001,"liệu có giá trị dùng làm chứng cứ
+1. Thông điệp dữ liệu được dùng làm chứng cứ theo quy định của Luật này và pháp luật về tố tụng.
+2. Giá trị dùng làm chứng cứ của thông điệp dữ liệu được xác định căn cứ vào độ tin cậy của cách thức khởi tạo, gửi, nhận hoặc lưu trữ thông điệp dữ liệu; cách thức bảo đảm và duy trì tính toàn vẹn của thông điệp dữ liệu; cách thức xác định người khởi tạo, gửi, nhận thông điệp dữ liệu và các yếu tố phù hợp khác.
+Điều 12. Chuyển đổi hình thức giữa văn bản giấy và thông điệp dữ liệu
+1. Thông điệp dữ liệu được chuyển đổi từ văn bản giấy phải đáp ứng đủ các yêu cầu sau đây:
+a) Thông tin trong thông điệp dữ liệu được bảo đảm toàn vẹn như văn bản giấy;
+b) Thông tin trong thông điệp dữ liệu có thể truy cập và sử dụng được để tham chiếu;
+c) Có ký hiệu riêng xác nhận đã được chuyển đổi từ văn bản giấy sang thông điệp dữ liệu và thông tin của cơ quan, tổ chức, cá nhân thực hiện chuyển đổi;
+d) Trường hợp văn bản giấy là giấy phép, giấy chứng nhận, chứng chỉ, văn bản",1,"Mất tiêu đề Điều 11 ('liệu có giá trị dùng làm chứng cứ'), cuối cắt giữa điểm d.","AI-assisted draft (Cursor), reviewed by student"
+pos05,luat-gddt-2023,5,963,B_struct,luat-gddt-2023:p005:struct:002,"Điều 11. Thông điệp dữ liệu có giá trị dùng làm chứng cứ
+1. Thông điệp dữ liệu được dùng làm chứng cứ theo quy định của Luật này và pháp luật về tố tụng.
+2. Giá trị dùng làm chứng cứ của thông điệp dữ liệu được xác định căn cứ vào độ tin cậy của cách thức khởi tạo, gửi, nhận hoặc lưu trữ thông điệp dữ liệu; cách thức bảo đảm và duy trì tính toàn vẹn của thông điệp dữ liệu; cách thức xác định người khởi tạo, gửi, nhận thông điệp dữ liệu và các yếu tố phù hợp khác.",2,Trọn Điều 11 kể cả tiêu đề.,"AI-assisted draft (Cursor), reviewed by student"
+pos05,luat-gddt-2023,5,963,C_struct_filter,luat-gddt-2023:p005:struct:002,"Điều 11. Thông điệp dữ liệu có giá trị dùng làm chứng cứ
+1. Thông điệp dữ liệu được dùng làm chứng cứ theo quy định của Luật này và pháp luật về tố tụng.
+2. Giá trị dùng làm chứng cứ của thông điệp dữ liệu được xác định căn cứ vào độ tin cậy của cách thức khởi tạo, gửi, nhận hoặc lưu trữ thông điệp dữ liệu; cách thức bảo đảm và duy trì tính toàn vẹn của thông điệp dữ liệu; cách thức xác định người khởi tạo, gửi, nhận thông điệp dữ liệu và các yếu tố phù hợp khác.",2,Trọn Điều 11 kể cả tiêu đề. (C dùng cùng chunk với B),"AI-assisted draft (Cursor), reviewed by student"
+pos06,luat-gddt-2023,15,918,A_fixed,luat-gddt-2023:p015:fixed:001,"điện tử của tổ chức cung cấp dịch vụ trong nước chưa được công nhận tại nước đó.
+4. Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết việc công nhận tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài tại Việt Nam; công nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài tại Việt Nam.
+Điều 27. Chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài được chấp nhận trong giao dịch quốc tế
+1. Chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài được chấp nhận trong giao dịch quốc tế là chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài của tổ chức, cá nhân nước ngoài không hiện diện tại Việt Nam, có hiệu lực trên thông điệp dữ liệu gửi đến tổ chức, cá nhân Việt Nam.
+2. Tổ chức, cá nhân lựa chọn và chịu trách nhiệm về việc chấp nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài trên thông điệp dữ liệu trong giao dịch quốc tế.
+Mục 2
+DỊCH VỤ TIN CẬY
+Điều 28. Dịch vụ tin cậy
+1. Dịch vụ tin cậy bao gồm:",1,Gộp đuôi Điều 26 với tiêu đề Mục 2/Điều 28 rồi dừng ở 'bao gồm:' (thiếu danh sách).,"AI-assisted draft (Cursor), reviewed by student"
+pos06,luat-gddt-2023,15,918,B_struct,luat-gddt-2023:p015:struct:000,"2. Điều kiện công nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài tại Việt Nam bao gồm:
+a) Chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài phải phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật về chữ ký điện tử, chứng thư chữ ký điện tử theo quy định của pháp luật Việt Nam hoặc tiêu chuẩn quốc tế đã được thừa nhận hoặc điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;
+b) Chứng thư chữ ký điện tử nước ngoài hình thành dựa trên thông tin định danh đầy đủ đã được xác thực của tổ chức, cá nhân nước ngoài.
+3. Đối tượng sử dụng chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài được công nhận theo quy định tại khoản 2 Điều này là tổ chức, cá nhân nước ngoài; tổ chức, cá nhân Việt Nam có nhu cầu giao dịch điện tử với tổ chức, cá nhân nước ngoài mà chữ ký điện tử, chứng thư chữ ký điện tử của tổ chức cung cấp dịch vụ trong nước chưa được công nhận tại nước đó.",2,"Trọn khoản 2-3 Điều 26 (đầu trang, không có tiêu đề Điều nhưng ý đầy đủ).","AI-assisted draft (Cursor), reviewed by student"
+pos06,luat-gddt-2023,15,918,C_struct_filter,luat-gddt-2023:p015:struct:000,"2. Điều kiện công nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài tại Việt Nam bao gồm:
+a) Chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài phải phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật về chữ ký điện tử, chứng thư chữ ký điện tử theo quy định của pháp luật Việt Nam hoặc tiêu chuẩn quốc tế đã được thừa nhận hoặc điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;
+b) Chứng thư chữ ký điện tử nước ngoài hình thành dựa trên thông tin định danh đầy đủ đã được xác thực của tổ chức, cá nhân nước ngoài.
+3. Đối tượng sử dụng chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài được công nhận theo quy định tại khoản 2 Điều này là tổ chức, cá nhân nước ngoài; tổ chức, cá nhân Việt Nam có nhu cầu giao dịch điện tử với tổ chức, cá nhân nước ngoài mà chữ ký điện tử, chứng thư chữ ký điện tử của tổ chức cung cấp dịch vụ trong nước chưa được công nhận tại nước đó.",2,"Trọn khoản 2-3 Điều 26 (đầu trang, không có tiêu đề Điều nhưng ý đầy đủ). (C dùng cùng chunk với B)","AI-assisted draft (Cursor), reviewed by student"
+pos07,luat-gddt-2023,25,922,A_fixed,luat-gddt-2023:p025:fixed:001,"a theo quy định tại khoản 4 Điều này.
+3. Cơ quan, tổ chức, cá nhân có quyền lựa chọn sử dụng tài khoản giao dịch điện tử phù hợp với nhu cầu, trừ trường hợp pháp luật có quy định khác.
+4. Lịch sử giao dịch của tài khoản giao dịch điện tử có giá trị pháp lý để chứng minh giao dịch khi đáp ứng đủ các yêu cầu sau đây:
+a) Hệ thống thông tin phục vụ giao dịch điện tử phải bảo đảm an toàn theo quy định của pháp luật về an toàn thông tin mạng;
+b) Gắn duy nhất với một cơ quan, tổ chức hoặc cá nhân là chủ tài khoản giao dịch điện tử;
+c) Bảo đảm chính xác thời gian giao dịch từ nguồn thời gian theo quy định của pháp luật về nguồn thời gian chuẩn quốc gia.
+Điều 47. Trách nhiệm của chủ quản hệ thống thông tin phục vụ giao dịch điện tử
+1. Chủ quản hệ thống thông tin phục vụ giao dịch điện tử có trách nhiệm sau đây:
+a) Tuân thủ quy định của Luật này và pháp luật về an toàn thông tin mạng, an ninh mạng, bảo vệ thông tin cá nhân, bảo vệ dữ liệu cá nhân và quy định khác của pháp luật có liên quan;",1,"Bắt đầu giữa câu 'a theo quy định tại khoản 4', cuối dừng giữa điểm liệt kê.","AI-assisted draft (Cursor), reviewed by student"
+pos07,luat-gddt-2023,25,922,B_struct,luat-gddt-2023:p025:struct:001,"Điều 46. Tài khoản giao dịch điện tử
+1. Tài khoản giao dịch điện tử do chủ quản hệ thống thông tin phục vụ giao dịch điện tử cấp và được quản lý, sử dụng theo quy định của Luật này.
+2. Tài khoản giao dịch điện tử được sử dụng để thực hiện giao dịch điện tử, nhằm lưu trữ lịch sử giao dịch và bảo đảm chính xác trình tự giao dịch của chủ tài khoản, có giá trị chứng minh lịch sử giao dịch của các bên tham gia theo quy định tại khoản 4 Điều này.
+3. Cơ quan, tổ chức, cá nhân có quyền lựa chọn sử dụng tài khoản giao dịch điện tử phù hợp với nhu cầu, trừ trường hợp pháp luật có quy định khác.
+4. Lịch sử giao dịch của tài khoản giao dịch điện tử có giá trị pháp lý để chứng minh giao dịch khi đáp ứng đủ các yêu cầu sau đây:
+a) Hệ thống thông tin phục vụ giao dịch điện tử phải bảo đảm an toàn theo quy định của pháp luật về an toàn thông tin mạng;
+b) Gắn duy nhất với một cơ quan, tổ chức hoặc cá nhân là chủ tài khoản giao dịch điện tử;",1,Có tiêu đề Điều 46 nhưng dừng giữa danh sách điểm a-b do giới hạn kích thước.,"AI-assisted draft (Cursor), reviewed by student"
+pos07,luat-gddt-2023,25,922,C_struct_filter,luat-gddt-2023:p025:struct:001,"Điều 46. Tài khoản giao dịch điện tử
+1. Tài khoản giao dịch điện tử do chủ quản hệ thống thông tin phục vụ giao dịch điện tử cấp và được quản lý, sử dụng theo quy định của Luật này.
+2. Tài khoản giao dịch điện tử được sử dụng để thực hiện giao dịch điện tử, nhằm lưu trữ lịch sử giao dịch và bảo đảm chính xác trình tự giao dịch của chủ tài khoản, có giá trị chứng minh lịch sử giao dịch của các bên tham gia theo quy định tại khoản 4 Điều này.
+3. Cơ quan, tổ chức, cá nhân có quyền lựa chọn sử dụng tài khoản giao dịch điện tử phù hợp với nhu cầu, trừ trường hợp pháp luật có quy định khác.
+4. Lịch sử giao dịch của tài khoản giao dịch điện tử có giá trị pháp lý để chứng minh giao dịch khi đáp ứng đủ các yêu cầu sau đây:
+a) Hệ thống thông tin phục vụ giao dịch điện tử phải bảo đảm an toàn theo quy định của pháp luật về an toàn thông tin mạng;
+b) Gắn duy nhất với một cơ quan, tổ chức hoặc cá nhân là chủ tài khoản giao dịch điện tử;",1,Có tiêu đề Điều 46 nhưng dừng giữa danh sách điểm a-b do giới hạn kích thước. (C dùng cùng chunk với B),"AI-assisted draft (Cursor), reviewed by student"
+pos08,luat-bvdlcn-2025,5,954,A_fixed,luat-bvdlcn-2025:p005:fixed:001,"yền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+2. Cản trở hoạt động bảo vệ dữ liệu cá nhân.
+3. Lợi dụng hoạt động bảo vệ dữ liệu cá nhân để thực hiện hành vi vi phạm pháp luật.
+4. Xử lý dữ liệu cá nhân trái quy định của pháp luật.
+5. Sử dụng dữ liệu cá nhân của người khác, cho người khác sử dụng dữ liệu cá nhân của mình để thực hiện hành vi trái quy định của pháp luật.
+6. Mua, bán dữ liệu cá nhân, trừ trường hợp luật có quy định khác.
+7. Chiếm đoạt, cố ý làm lộ, làm mất dữ liệu cá nhân.
+Điều 8. Xử lý vi phạm pháp luật về bảo vệ dữ liệu cá nhân
+1. Tổ chức, cá nhân có hành vi vi phạm quy định của Luật này và quy định khác của pháp luật có liên quan đến bảo vệ dữ liệu cá nhân thì tùy theo tính chất, mức độ, hậu quả của hành vi vi phạm có thể bị xử phạt hành chính hoặc bị truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+2. Việc xử phạt vi phạm hành chính trong lĩnh vực bảo vệ dữ liệu cá nhân thực hiện theo quy định tại các khoản 3, 4, 5",0,"Cắt ở 'theo quy định tại các khoản 3, 4, 5' nên mất nội dung mức phạt mà đoạn đang dẫn tới.","AI-assisted draft (Cursor), reviewed by student"
+pos08,luat-bvdlcn-2025,5,954,B_struct,luat-bvdlcn-2025:p005:struct:001,"Điều 7. Hành vi bị nghiêm cấm
+1. Xử lý dữ liệu cá nhân nhằm chống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, gây ảnh hưởng đến quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+2. Cản trở hoạt động bảo vệ dữ liệu cá nhân.
+3. Lợi dụng hoạt động bảo vệ dữ liệu cá nhân để thực hiện hành vi vi phạm pháp luật.
+4. Xử lý dữ liệu cá nhân trái quy định của pháp luật.
+5. Sử dụng dữ liệu cá nhân của người khác, cho người khác sử dụng dữ liệu cá nhân của mình để thực hiện hành vi trái quy định của pháp luật.
+6. Mua, bán dữ liệu cá nhân, trừ trường hợp luật có quy định khác.
+7. Chiếm đoạt, cố ý làm lộ, làm mất dữ liệu cá nhân.",2,Trọn Điều 7 (7 hành vi bị nghiêm cấm).,"AI-assisted draft (Cursor), reviewed by student"
+pos08,luat-bvdlcn-2025,5,954,C_struct_filter,luat-bvdlcn-2025:p005:struct:001,"Điều 7. Hành vi bị nghiêm cấm
+1. Xử lý dữ liệu cá nhân nhằm chống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, gây ảnh hưởng đến quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.
+2. Cản trở hoạt động bảo vệ dữ liệu cá nhân.
+3. Lợi dụng hoạt động bảo vệ dữ liệu cá nhân để thực hiện hành vi vi phạm pháp luật.
+4. Xử lý dữ liệu cá nhân trái quy định của pháp luật.
+5. Sử dụng dữ liệu cá nhân của người khác, cho người khác sử dụng dữ liệu cá nhân của mình để thực hiện hành vi trái quy định của pháp luật.
+6. Mua, bán dữ liệu cá nhân, trừ trường hợp luật có quy định khác.
+7. Chiếm đoạt, cố ý làm lộ, làm mất dữ liệu cá nhân.",2,Trọn Điều 7 (7 hành vi bị nghiêm cấm). (C dùng cùng chunk với B),"AI-assisted draft (Cursor), reviewed by student"
+pos09,luat-bvdlcn-2025,15,1062,A_fixed,luat-bvdlcn-2025:p015:fixed:001,"chuyên trách bảo vệ dữ liệu cá nhân xử lý hành vi vi phạm.
+3. Cơ quan, tổ chức, cá nhân thông báo cho cơ quan chuyên trách bảo vệ dữ liệu cá nhân trong các trường hợp sau đây:
+a) Phát hiện hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân;
+b) Dữ liệu cá nhân bị xử lý sai mục đích, không đúng thỏa thuận giữa chủ thể dữ liệu cá nhân với bên kiểm soát dữ liệu cá nhân, bên kiểm soát và xử lý dữ liệu cá nhân;
+c) Không bảo đảm quyền hoặc thực hiện không đúng quyền của chủ thể dữ liệu cá nhân;
+d) Trường hợp khác theo quy định của pháp luật.
+4. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân có trách nhiệm tiếp nhận thông báo, xử lý hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân. Bên kiểm soát dữ liệu cá nhân, bên kiểm soát và xử lý dữ liệu cá nhân, bên thứ ba và cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm ngăn chặn hành vi vi phạm, khắc phục hậu quả xảy ra và phối hợp cơ quan chuyên trách bảo vệ dữ liệu cá nhân trong xử lý hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân.
+5. Chín",1,Phần lớn khoản 3-4 Điều 23 còn nguyên nhưng cuối cắt 'Chín...'.,"AI-assisted draft (Cursor), reviewed by student"
+pos09,luat-bvdlcn-2025,15,1062,B_struct,luat-bvdlcn-2025:p015:struct:001,"3. Cơ quan, tổ chức, cá nhân thông báo cho cơ quan chuyên trách bảo vệ dữ liệu cá nhân trong các trường hợp sau đây:
+a) Phát hiện hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân;
+b) Dữ liệu cá nhân bị xử lý sai mục đích, không đúng thỏa thuận giữa chủ thể dữ liệu cá nhân với bên kiểm soát dữ liệu cá nhân, bên kiểm soát và xử lý dữ liệu cá nhân;
+c) Không bảo đảm quyền hoặc thực hiện không đúng quyền của chủ thể dữ liệu cá nhân;
+d) Trường hợp khác theo quy định của pháp luật.
+4. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân có trách nhiệm tiếp nhận thông báo, xử lý hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân. Bên kiểm soát dữ liệu cá nhân, bên kiểm soát và xử lý dữ liệu cá nhân, bên thứ ba và cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm ngăn chặn hành vi vi phạm, khắc phục hậu quả xảy ra và phối hợp cơ quan chuyên trách bảo vệ dữ liệu cá nhân trong xử lý hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân.",2,Trọn khoản 3-4 Điều 23.,"AI-assisted draft (Cursor), reviewed by student"
+pos09,luat-bvdlcn-2025,15,1062,C_struct_filter,luat-bvdlcn-2025:p015:struct:001,"3. Cơ quan, tổ chức, cá nhân thông báo cho cơ quan chuyên trách bảo vệ dữ liệu cá nhân trong các trường hợp sau đây:
+a) Phát hiện hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân;
+b) Dữ liệu cá nhân bị xử lý sai mục đích, không đúng thỏa thuận giữa chủ thể dữ liệu cá nhân với bên kiểm soát dữ liệu cá nhân, bên kiểm soát và xử lý dữ liệu cá nhân;
+c) Không bảo đảm quyền hoặc thực hiện không đúng quyền của chủ thể dữ liệu cá nhân;
+d) Trường hợp khác theo quy định của pháp luật.
+4. Cơ quan chuyên trách bảo vệ dữ liệu cá nhân có trách nhiệm tiếp nhận thông báo, xử lý hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân. Bên kiểm soát dữ liệu cá nhân, bên kiểm soát và xử lý dữ liệu cá nhân, bên thứ ba và cơ quan, tổ chức, cá nhân có liên quan có trách nhiệm ngăn chặn hành vi vi phạm, khắc phục hậu quả xảy ra và phối hợp cơ quan chuyên trách bảo vệ dữ liệu cá nhân trong xử lý hành vi vi phạm quy định về bảo vệ dữ liệu cá nhân.",2,Trọn khoản 3-4 Điều 23. (C dùng cùng chunk với B),"AI-assisted draft (Cursor), reviewed by student"
+pos10,luat-bvdlcn-2025,20,1178,A_fixed,luat-bvdlcn-2025:p020:fixed:001,"đạo đức, thuần phong mỹ tục của Việt Nam.
+3. Hệ thống và dịch vụ sử dụng dữ liệu lớn, trí tuệ nhân tạo, chuỗi khối, vũ trụ ảo và điện toán đám mây phải được tích hợp các biện pháp bảo mật dữ liệu cá nhân phù hợp; phải sử dụng phương thức xác thực, định danh phù hợp và phân quyền truy cập để xử lý dữ liệu cá nhân.
+4. Việc xử lý dữ liệu cá nhân bằng trí tuệ nhân tạo phải thực hiện phân loại theo mức độ rủi ro để có biện pháp bảo vệ dữ liệu cá nhân phù hợp.
+5. Không sử dụng, phát triển hệ thống xử lý dữ liệu lớn, trí tuệ nhân tạo, chuỗi khối, vũ trụ ảo, điện toán đám mây có sử dụng dữ liệu cá nhân để gây tổn hại đến quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội hoặc xâm phạm đến tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản của người khác.
+6. Chính phủ quy định chi tiết Điều này.
+Điều 31. Bảo vệ dữ liệu cá nhân đối với dữ liệu vị trí cá nhân, dữ liệu sinh trắc học
+1. Dữ liệu vị trí cá nhân là dữ liệu được xác định thông qua công nghệ định vị để biết vị trí và giúp xác định con",1,Trộn khoản 3 Điều 30 với tiêu đề Điều 31 rồi cắt giữa định nghĩa dữ liệu vị trí.,"AI-assisted draft (Cursor), reviewed by student"
+pos10,luat-bvdlcn-2025,20,1178,B_struct,luat-bvdlcn-2025:p020:struct:002,"4. Việc xử lý dữ liệu cá nhân bằng trí tuệ nhân tạo phải thực hiện phân loại theo mức độ rủi ro để có biện pháp bảo vệ dữ liệu cá nhân phù hợp.
+5. Không sử dụng, phát triển hệ thống xử lý dữ liệu lớn, trí tuệ nhân tạo, chuỗi khối, vũ trụ ảo, điện toán đám mây có sử dụng dữ liệu cá nhân để gây tổn hại đến quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội hoặc xâm phạm đến tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản của người khác.
+6. Chính phủ quy định chi tiết Điều này.",2,Trọn khoản 4-6 Điều 30.,"AI-assisted draft (Cursor), reviewed by student"
+pos10,luat-bvdlcn-2025,20,1178,C_struct_filter,luat-bvdlcn-2025:p020:struct:002,"4. Việc xử lý dữ liệu cá nhân bằng trí tuệ nhân tạo phải thực hiện phân loại theo mức độ rủi ro để có biện pháp bảo vệ dữ liệu cá nhân phù hợp.
+5. Không sử dụng, phát triển hệ thống xử lý dữ liệu lớn, trí tuệ nhân tạo, chuỗi khối, vũ trụ ảo, điện toán đám mây có sử dụng dữ liệu cá nhân để gây tổn hại đến quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội hoặc xâm phạm đến tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản của người khác.
+6. Chính phủ quy định chi tiết Điều này.",2,Trọn khoản 4-6 Điều 30. (C dùng cùng chunk với B),"AI-assisted draft (Cursor), reviewed by student"
