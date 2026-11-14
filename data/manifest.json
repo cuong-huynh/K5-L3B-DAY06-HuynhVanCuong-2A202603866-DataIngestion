@@ -1,0 +1,615 @@
+{
+  "corpus": "Ba luật Việt Nam về không gian số (An ninh mạng, Giao dịch điện tử, Bảo vệ dữ liệu cá nhân)",
+  "extraction": "PyMuPDF get_text('dict'), Unicode NFC; không cần OCR",
+  "counting_rule": "Đếm trang vật lý của PDF (bắt đầu từ 1). Một trang được tính là trang nội dung nếu sau chuẩn hóa còn ít nhất 200 ký tự văn bản luật; tiêu đề Công báo, số trang Công báo và dấu chữ ký số đã bị loại trước khi đếm. Mỗi file chỉ chứa đúng một luật, không có bìa hay mục lục.",
+  "total_physical_pages": 92,
+  "total_content_pages": 92,
+  "documents": [
+    {
+      "source_id": "luat-anm-2025",
+      "title": "Luật An ninh mạng số 116/2025/QH15",
+      "source_path_or_url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/1/23/116signed-1769163678477753319408.pdf",
+      "landing_page": "https://congbao.chinhphu.vn/van-ban/luat-so-116-2025-qh15-468678.htm",
+      "local_path": "data/raw/luat-116-2025-qh15-anm.pdf",
+      "snapshot": "Công báo số 35 ngày 21-01-2026",
+      "sha256": "8e19e14fd57666baec8f16b7ca2832cbf7f24030a5e6ee0c574e15d0d48ad971",
+      "license_or_permission": "Văn bản quy phạm pháp luật, không thuộc phạm vi bảo hộ quyền tác giả (Điều 15 Luật Sở hữu trí tuệ); bản PDF lấy nguyên trạng từ Công báo Chính phủ.",
+      "accessed_at": "2026-11-14",
+      "passed_date": "2025-12-10",
+      "effective_date": "2026-07-01",
+      "physical_pages": 37,
+      "content_pages": 37,
+      "pages": [
+        {
+          "page": 1,
+          "gazette_page": 4,
+          "chars": 1804,
+          "counted": true
+        },
+        {
+          "page": 2,
+          "gazette_page": 5,
+          "chars": 2552,
+          "counted": true
+        },
+        {
+          "page": 3,
+          "gazette_page": 6,
+          "chars": 2691,
+          "counted": true
+        },
+        {
+          "page": 4,
+          "gazette_page": 7,
+          "chars": 2206,
+          "counted": true
+        },
+        {
+          "page": 5,
+          "gazette_page": 8,
+          "chars": 2374,
+          "counted": true
+        },
+        {
+          "page": 6,
+          "gazette_page": 9,
+          "chars": 2584,
+          "counted": true
+        },
+        {
+          "page": 7,
+          "gazette_page": 10,
+          "chars": 2609,
+          "counted": true
+        },
+        {
+          "page": 8,
+          "gazette_page": 11,
+          "chars": 2328,
+          "counted": true
+        },
+        {
+          "page": 9,
+          "gazette_page": 12,
+          "chars": 2120,
+          "counted": true
+        },
+        {
+          "page": 10,
+          "gazette_page": 13,
+          "chars": 2367,
+          "counted": true
+        },
+        {
+          "page": 11,
+          "gazette_page": 14,
+          "chars": 2431,
+          "counted": true
+        },
+        {
+          "page": 12,
+          "gazette_page": 15,
+          "chars": 2017,
+          "counted": true
+        },
+        {
+          "page": 13,
+          "gazette_page": 16,
+          "chars": 2385,
+          "counted": true
+        },
+        {
+          "page": 14,
+          "gazette_page": 17,
+          "chars": 2641,
+          "counted": true
+        },
+        {
+          "page": 15,
+          "gazette_page": 18,
+          "chars": 2649,
+          "counted": true
+        },
+        {
+          "page": 16,
+          "gazette_page": 19,
+          "chars": 2754,
+          "counted": true
+        },
+        {
+          "page": 17,
+          "gazette_page": 20,
+          "chars": 2521,
+          "counted": true
+        },
+        {
+          "page": 18,
+          "gazette_page": 21,
+          "chars": 2529,
+          "counted": true
+        },
+        {
+          "page": 19,
+          "gazette_page": 22,
+          "chars": 2701,
+          "counted": true
+        },
+        {
+          "page": 20,
+          "gazette_page": 23,
+          "chars": 2605,
+          "counted": true
+        },
+        {
+          "page": 21,
+          "gazette_page": 24,
+          "chars": 2330,
+          "counted": true
+        },
+        {
+          "page": 22,
+          "gazette_page": 25,
+          "chars": 2361,
+          "counted": true
+        },
+        {
+          "page": 23,
+          "gazette_page": 26,
+          "chars": 2495,
+          "counted": true
+        },
+        {
+          "page": 24,
+          "gazette_page": 27,
+          "chars": 2605,
+          "counted": true
+        },
+        {
+          "page": 25,
+          "gazette_page": 28,
+          "chars": 2081,
+          "counted": true
+        },
+        {
+          "page": 26,
+          "gazette_page": 29,
+          "chars": 1619,
+          "counted": true
+        },
+        {
+          "page": 27,
+          "gazette_page": 30,
+          "chars": 2018,
+          "counted": true
+        },
+        {
+          "page": 28,
+          "gazette_page": 31,
+          "chars": 2495,
+          "counted": true
+        },
+        {
+          "page": 29,
+          "gazette_page": 32,
+          "chars": 2263,
+          "counted": true
+        },
+        {
+          "page": 30,
+          "gazette_page": 33,
+          "chars": 2469,
+          "counted": true
+        },
+        {
+          "page": 31,
+          "gazette_page": 34,
+          "chars": 2372,
+          "counted": true
+        },
+        {
+          "page": 32,
+          "gazette_page": 35,
+          "chars": 2215,
+          "counted": true
+        },
+        {
+          "page": 33,
+          "gazette_page": 36,
+          "chars": 2666,
+          "counted": true
+        },
+        {
+          "page": 34,
+          "gazette_page": 37,
+          "chars": 2098,
+          "counted": true
+        },
+        {
+          "page": 35,
+          "gazette_page": 38,
+          "chars": 2302,
+          "counted": true
+        },
+        {
+          "page": 36,
+          "gazette_page": 39,
+          "chars": 2548,
+          "counted": true
+        },
+        {
+          "page": 37,
+          "gazette_page": 40,
+          "chars": 708,
+          "counted": true
+        }
+      ],
+      "total_chars": 86513
+    },
+    {
+      "source_id": "luat-gddt-2023",
+      "title": "Luật Giao dịch điện tử số 20/2023/QH15",
+      "source_path_or_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2023/8/luat20-2023-qh15..pdf",
+      "landing_page": "https://vanban.chinhphu.vn/?docid=208421&pageid=27160",
+      "local_path": "data/raw/luat-20-2023-qh15-gddt.pdf",
+      "snapshot": "Công báo số 867 + 868 ngày 30-7-2023",
+      "sha256": "2458d01d6453cd11ab7aaddbae36e988110754bcb53a59eda729987a63882914",
+      "license_or_permission": "Văn bản quy phạm pháp luật, không thuộc phạm vi bảo hộ quyền tác giả (Điều 15 Luật Sở hữu trí tuệ); bản PDF lấy nguyên trạng từ Công báo Chính phủ.",
+      "accessed_at": "2026-11-14",
+      "passed_date": "2023-06-22",
+      "effective_date": "2024-07-01",
+      "physical_pages": 30,
+      "content_pages": 30,
+      "pages": [
+        {
+          "page": 1,
+          "gazette_page": 4,
+          "chars": 1464,
+          "counted": true
+        },
+        {
+          "page": 2,
+          "gazette_page": 5,
+          "chars": 2012,
+          "counted": true
+        },
+        {
+          "page": 3,
+          "gazette_page": 6,
+          "chars": 2013,
+          "counted": true
+        },
+        {
+          "page": 4,
+          "gazette_page": 7,
+          "chars": 1655,
+          "counted": true
+        },
+        {
+          "page": 5,
+          "gazette_page": 8,
+          "chars": 1927,
+          "counted": true
+        },
+        {
+          "page": 6,
+          "gazette_page": 9,
+          "chars": 1953,
+          "counted": true
+        },
+        {
+          "page": 7,
+          "gazette_page": 10,
+          "chars": 1907,
+          "counted": true
+        },
+        {
+          "page": 8,
+          "gazette_page": 11,
+          "chars": 2079,
+          "counted": true
+        },
+        {
+          "page": 9,
+          "gazette_page": 12,
+          "chars": 2208,
+          "counted": true
+        },
+        {
+          "page": 10,
+          "gazette_page": 13,
+          "chars": 1683,
+          "counted": true
+        },
+        {
+          "page": 11,
+          "gazette_page": 14,
+          "chars": 1717,
+          "counted": true
+        },
+        {
+          "page": 12,
+          "gazette_page": 15,
+          "chars": 1846,
+          "counted": true
+        },
+        {
+          "page": 13,
+          "gazette_page": 16,
+          "chars": 1840,
+          "counted": true
+        },
+        {
+          "page": 14,
+          "gazette_page": 17,
+          "chars": 2025,
+          "counted": true
+        },
+        {
+          "page": 15,
+          "gazette_page": 18,
+          "chars": 1837,
+          "counted": true
+        },
+        {
+          "page": 16,
+          "gazette_page": 19,
+          "chars": 1846,
+          "counted": true
+        },
+        {
+          "page": 17,
+          "gazette_page": 20,
+          "chars": 1767,
+          "counted": true
+        },
+        {
+          "page": 18,
+          "gazette_page": 21,
+          "chars": 1542,
+          "counted": true
+        },
+        {
+          "page": 19,
+          "gazette_page": 22,
+          "chars": 1838,
+          "counted": true
+        },
+        {
+          "page": 20,
+          "gazette_page": 23,
+          "chars": 1879,
+          "counted": true
+        },
+        {
+          "page": 21,
+          "gazette_page": 24,
+          "chars": 2138,
+          "counted": true
+        },
+        {
+          "page": 22,
+          "gazette_page": 25,
+          "chars": 2099,
+          "counted": true
+        },
+        {
+          "page": 23,
+          "gazette_page": 26,
+          "chars": 2053,
+          "counted": true
+        },
+        {
+          "page": 24,
+          "gazette_page": 27,
+          "chars": 1951,
+          "counted": true
+        },
+        {
+          "page": 25,
+          "gazette_page": 28,
+          "chars": 1845,
+          "counted": true
+        },
+        {
+          "page": 26,
+          "gazette_page": 29,
+          "chars": 1762,
+          "counted": true
+        },
+        {
+          "page": 27,
+          "gazette_page": 30,
+          "chars": 1875,
+          "counted": true
+        },
+        {
+          "page": 28,
+          "gazette_page": 31,
+          "chars": 1518,
+          "counted": true
+        },
+        {
+          "page": 29,
+          "gazette_page": 32,
+          "chars": 1983,
+          "counted": true
+        },
+        {
+          "page": 30,
+          "gazette_page": 33,
+          "chars": 1861,
+          "counted": true
+        }
+      ],
+      "total_chars": 56123
+    },
+    {
+      "source_id": "luat-bvdlcn-2025",
+      "title": "Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15",
+      "source_path_or_url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/6/45578/57730-1-2025971-97291-2025-qh15.pdf",
+      "landing_page": "https://congbao.chinhphu.vn/van-ban/luat-so-91-2025-qh15-45578.htm",
+      "local_path": "data/raw/luat-91-2025-qh15-bvdlcn.pdf",
+      "snapshot": "Công báo số 971 + 972 ngày 24-7-2025",
+      "sha256": "226dd6da66a6eea348e04db0f8c496d884021b730298991c6f6683720a0dfa2e",
+      "license_or_permission": "Văn bản quy phạm pháp luật, không thuộc phạm vi bảo hộ quyền tác giả (Điều 15 Luật Sở hữu trí tuệ); bản PDF lấy nguyên trạng từ Công báo Chính phủ.",
+      "accessed_at": "2026-11-14",
+      "passed_date": "2025-06-26",
+      "effective_date": "2026-01-01",
+      "physical_pages": 25,
+      "content_pages": 25,
+      "pages": [
+        {
+          "page": 1,
+          "gazette_page": 13,
+          "chars": 1630,
+          "counted": true
+        },
+        {
+          "page": 2,
+          "gazette_page": 14,
+          "chars": 2196,
+          "counted": true
+        },
+        {
+          "page": 3,
+          "gazette_page": 15,
+          "chars": 1851,
+          "counted": true
+        },
+        {
+          "page": 4,
+          "gazette_page": 16,
+          "chars": 2204,
+          "counted": true
+        },
+        {
+          "page": 5,
+          "gazette_page": 17,
+          "chars": 1909,
+          "counted": true
+        },
+        {
+          "page": 6,
+          "gazette_page": 18,
+          "chars": 1882,
+          "counted": true
+        },
+        {
+          "page": 7,
+          "gazette_page": 19,
+          "chars": 2198,
+          "counted": true
+        },
+        {
+          "page": 8,
+          "gazette_page": 20,
+          "chars": 2285,
+          "counted": true
+        },
+        {
+          "page": 9,
+          "gazette_page": 21,
+          "chars": 2080,
+          "counted": true
+        },
+        {
+          "page": 10,
+          "gazette_page": 22,
+          "chars": 2222,
+          "counted": true
+        },
+        {
+          "page": 11,
+          "gazette_page": 23,
+          "chars": 2154,
+          "counted": true
+        },
+        {
+          "page": 12,
+          "gazette_page": 24,
+          "chars": 2156,
+          "counted": true
+        },
+        {
+          "page": 13,
+          "gazette_page": 25,
+          "chars": 2207,
+          "counted": true
+        },
+        {
+          "page": 14,
+          "gazette_page": 26,
+          "chars": 2146,
+          "counted": true
+        },
+        {
+          "page": 15,
+          "gazette_page": 27,
+          "chars": 2125,
+          "counted": true
+        },
+        {
+          "page": 16,
+          "gazette_page": 28,
+          "chars": 2262,
+          "counted": true
+        },
+        {
+          "page": 17,
+          "gazette_page": 29,
+          "chars": 2173,
+          "counted": true
+        },
+        {
+          "page": 18,
+          "gazette_page": 30,
+          "chars": 2331,
+          "counted": true
+        },
+        {
+          "page": 19,
+          "gazette_page": 31,
+          "chars": 2292,
+          "counted": true
+        },
+        {
+          "page": 20,
+          "gazette_page": 32,
+          "chars": 2356,
+          "counted": true
+        },
+        {
+          "page": 21,
+          "gazette_page": 33,
+          "chars": 2393,
+          "counted": true
+        },
+        {
+          "page": 22,
+          "gazette_page": 34,
+          "chars": 2009,
+          "counted": true
+        },
+        {
+          "page": 23,
+          "gazette_page": 35,
+          "chars": 1973,
+          "counted": true
+        },
+        {
+          "page": 24,
+          "gazette_page": 36,
+          "chars": 1905,
+          "counted": true
+        },
+        {
+          "page": 25,
+          "gazette_page": 37,
+          "chars": 1668,
+          "counted": true
+        }
+      ],
+      "total_chars": 52607
+    }
+  ]
+}
